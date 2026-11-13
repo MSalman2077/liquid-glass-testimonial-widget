@@ -32,7 +32,7 @@ Static widgets look great, but manually editing HTML every time you get a new cu
 
 
 
-We built \*\*\[PollToProof](https://www.polltoproof.com)\*\* to automate this entire workflow. 
+We built \*\*\[PollToProof] https://www.polltoproof.com to automate this entire workflow. 
 
 
 
