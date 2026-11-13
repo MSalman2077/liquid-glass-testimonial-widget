@@ -40,5 +40,5 @@ Instead of sending your users to long, high-friction survey forms, PollToProof l
 
 
 
-👉 \*\*\[Get your free PollToProof widget here](https://www.polltoproof.com)\*\*
+👉 \*\*\Get your free PollToProof widget here https://www.polltoproof.com
 
